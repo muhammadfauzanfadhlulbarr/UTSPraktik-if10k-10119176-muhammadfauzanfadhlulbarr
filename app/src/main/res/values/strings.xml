@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTSPraktik-if10k-10119176-muhammadfauzanfadhlulbarr</string>
+    <string name="jenis_tes">Jenis Tes <font color="#16A75C" size='11'>• Harus Diisi</font> </string>
+    <string name="form1">Form Pengisian Data</string>
+    <string name="form2">Cek Kembali Isian Data</string>
+    <string name="tanggal">Tanggal Terkonfirmasi <font color="#16A75C" size='11'>• Harus Diisi</font></string>
+    <string name="nik">NIK</string>
+    <string name="nama">Nama <font color="#16A75C" size='11'>• Harus Diisi</font></string>
+    <string name="tanggal_lahir">Tanggal Lahir <font color="#16A75C" size='11'>• Harus Diisi</font></string>
+    <string name="jenis">Jenis Kelamin <font color="#16A75C" size='11'>• Harus Diisi</font></string>
+    <string name="hub">Hubungan Dengan Anda <font color="#16A75C" size='11'>• Harus Diisi</font></string>
+    <string name="setuju">Dengan ini saya menyetujui bahwa data yang saya isikan adalah\nbenar</string>
+    <string name="selanjut">Selanjutnya</string>
+    <string name="cek">Cek Hasil Tes</string>
+    <string name="ubah">Ubah</string>
+</resources>
